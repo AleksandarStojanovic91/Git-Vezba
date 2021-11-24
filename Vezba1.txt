@@ -1,2 +1,2 @@
 Cao
-Zdravo
+Zdravo  |  Hello
